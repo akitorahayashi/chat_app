@@ -17,6 +17,9 @@ build/
 Pods/
 Podfile.lock
 
+# Firebase
+GoogleService-Info.plist
+
 # Carthage
 Carthage/Build/
 
